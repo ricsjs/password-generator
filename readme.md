@@ -11,7 +11,7 @@ Welcome to Go Password Generator, a simple program to generate random passwords.
     git clone https://github.com/ricsjs/password-generator.git
     ```
 
-3 - Open the project folder and run the command: 
+3 - Open the project folder and run the command:<br>
     ```
     go run cmd/main.go
     ```
